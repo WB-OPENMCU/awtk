@@ -222,7 +222,9 @@ pip install Pillow
 
 * [awtk-sylixos](https://github.com/zlgopen/awtk-sylixos)
 
-* [stm32f103ze](https://github.com/zlgopen/awtk-stm32f103ze-raw)
+
+* [stm32f103ze](https://github.com/WB-OPENMCU/Awtk-RedBull-STM32F103ZET6)
+
 
 * [stm32f429igtx](https://github.com/zlgopen/awtk-stm32f429igtx-raw)
 
